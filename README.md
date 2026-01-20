@@ -1,2 +1,2 @@
 # Morse-code-generator-using-esp32
-A description of my Morse code task on Esp32. 
+A description of my Morse code task on Esp32. This project implements a web-controlled Morse code LED system using ESP32. The ESP32 connects to a Wi-Fi network and hosts a lightweight web server. Users can access the web page through a browser, enter any text message, and submit it to the ESP32. The entered text is converted into Morse code in real time, and an LED connected to the ESP32 blinks according to standard Morse timing rules (dots and dashes). This project demonstrates the integration of embedded systems, networking, and web-based control using the ESP32 platform.
